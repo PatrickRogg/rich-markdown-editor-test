@@ -3,7 +3,7 @@ import "./App.css";
 import RichMarkdownEditor from "rich-markdown-editor";
 
 function App() {
-  return <RichMarkdownEditor defaultValue="Hello world!" />;
+  return <RichMarkdownEditor />;
 }
 
 export default App;
